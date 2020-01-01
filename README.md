@@ -1,1 +1,1 @@
-# Evren-s-Repository
+# Prime Number Finder
